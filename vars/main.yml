@@ -1,0 +1,7 @@
+---
+packages:
+ - build-essential 
+ - git
+ - zip
+ - vim
+ - logrotate
