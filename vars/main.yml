@@ -6,3 +6,5 @@ packages:
  - vim
  - logrotate
  - screen
+ - htop
+ - percona-toolkit
